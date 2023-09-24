@@ -39,7 +39,7 @@ header{
 
 }
 
-.hamburguer{
+.desplegable{
     position: fixed;
     top: 30px;
     right: 30px;
@@ -148,7 +148,7 @@ header{
 
 .imagen-light{
     position: fixed;
-    background: 0 0 6px rgba(0, 0, 0, .6);
+    background:  rgba(0, 0, 0, 0.622);
     width: 100%;
     height: 100%;
     top: 0;
@@ -336,7 +336,7 @@ footer{
     .menu-navegacion{
         width: 65vw;
     }
-    .hamburguer{
+    .desplegable{
         top: 20px;
         right: 20px;
     }
